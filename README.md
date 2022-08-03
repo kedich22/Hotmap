@@ -1,7 +1,9 @@
-# Hotmap
+# v-Hotmap adapted algorithm
+## 
 
-
-
+The repository includes the code of modified v-Hotmap algorithm to detect hotspots.
+The developed script is now working with a series of volcanoes, in a future it will be adapted to include more objects.
+The tool is useful for detection and tracng of volcanic activity.
 
 
 
