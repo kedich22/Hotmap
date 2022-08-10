@@ -6,9 +6,3 @@ The developed script is now working with a series of volcanoes, in a future it w
 The tool is useful for detection and tracng of volcanic activity.
 
 
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kedich22/Hotmap/main?labpath=Hotmap_improved_2.ipynb)
-
-Renderred Viola:
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kedich22/Hotmap/main?urlpath=voila%2Frender%2FHotmap_improved_2.ipynb)
