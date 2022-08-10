@@ -8,6 +8,7 @@ HOTMAP: Global hot target detection at moderate spatial resolution, Remote Sensi
 [link click here](https://doi.org/10.1016/j.rse.2016.02.027)
 
 The main changes are:
+
 ---
 The developed tool is now applicable to the following volcanoes:
 - Kilauea
