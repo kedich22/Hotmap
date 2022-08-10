@@ -30,6 +30,7 @@ If you still want to use it on your local computer in the file `requerements.txt
 2. Click on the binder badge at the top of the README file or [click here](https://mybinder.org/v2/gh/kedich22/Hotmap/main?labpath=Hotmap_improved_2.ipynb) to load the Jupyter Notebook.
 3. After the page loaded if you are accesing the app for the first time you should authentificate Earth Engine to provide the access to this Notebook. For this purposes your account should be already activated through the Google Earth Engine plarform. 
 Run the first chunk of code &rarr; follow the link &rarr; cick "Generate Token" &rarr; Choose your Google account &rarr There will be an notification that Google hasn not verified this app, clcik `Continue` &rarr grant the access by ticking both boxes &rarr; copy the provided authorisation code into the field in Jupyter Notebook and press enter &rarr; Congratulation! You are succesfully authorised and could use the app!
+![Auth Image](images/auth.jpg) ![Auth Image 2](images/auth_token.jpg) 
 
 
 
