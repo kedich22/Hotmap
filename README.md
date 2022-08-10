@@ -5,4 +5,5 @@ The repository includes the code of modified v-Hotmap algorithm to detect hotspo
 The developed script is now working with a series of volcanoes, in a future it will be adapted to include more objects.
 The tool is useful for detection and tracng of volcanic activity.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kedich22/Hotmap/main?labpath=Hotmap_improved_2.ipynb)
 
