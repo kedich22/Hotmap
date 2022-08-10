@@ -1,13 +1,13 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kedich22/Hotmap/main?labpath=Hotmap_improved_2.ipynb)
-# v-Hotmap adapted application
+# V-Hotmap adapted application
 ## The detection of thermal hostspots associated with volcanic activity based on thermal reflection derived from Sentinel-2
 
 The repository includes the code of modified v-Hotmap algorithm to detect hotspots. It is based on the paper of Murphy et al., 2016
 Sam W. Murphy, Carlos Roberto de Souza Filho, Rob Wright, Giovanni Sabatino, Rosa Correa Pabon,
 HOTMAP: Global hot target detection at moderate spatial resolution, Remote Sensing of Environment, Volume 177, 2016, Pages 78-88, ISSN 0034-4257,
 [link click here](https://doi.org/10.1016/j.rse.2016.02.027)
-The main changes are:
 
+The main changes are:
 ---
 The developed tool is now applicable to the following volcanoes:
 - Kilauea
