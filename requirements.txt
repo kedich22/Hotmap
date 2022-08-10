@@ -1,6 +1,10 @@
 ipyfilechooser==0.6.0
 ipywidgets==7.7.1
+ipyleaflet==0.17.0
 pandas==1.4.3
+numpy==1.23.1
+requests==2.28.1
 earthengine-api==0.1.317
 geemap==0.16.1
 voila==0.3.6
+
