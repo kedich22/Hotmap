@@ -5,7 +5,7 @@
 The repository includes the code of the modified V-HOTMAP algorithm to detect hotspots. 
 
 It is based on the algorithm developed by and described in the paper of Murphy et al., 2016
-Sam W. Murphy, Carlos Roberto de Souza Filho, Rob Wright, Giovanni Sabatino, Rosa Correa Pabon,
+- Sam W. Murphy, Carlos Roberto de Souza Filho, Rob Wright, Giovanni Sabatino, Rosa Correa Pabon,
 HOTMAP: Global hot target detection at moderate spatial resolution, Remote Sensing of Environment, Volume 177, 2016, Pages 78-88, ISSN 0034-4257,
 [link click here](https://doi.org/10.1016/j.rse.2016.02.027)
 
