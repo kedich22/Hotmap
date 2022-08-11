@@ -1,5 +1,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kedich22/Hotmap/main?labpath=Hotmap_improved_2.ipynb)
-# V-HOTMAP application
+# HOTMAP application
 ## The detection of thermal hotspots associated with volcanic activity based on thermal reflection derived from Sentinel-2
 
 The repository includes the code of the modified V-HOTMAP algorithm to detect hotspots. 
