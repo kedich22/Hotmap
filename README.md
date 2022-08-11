@@ -43,4 +43,9 @@ Run the first chunk of code &rarr; follow the link &rarr; click "Generate Token"
 - If you want to remove layers click `Clear`
 
 The following animation shows the example of application implementation:
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/70434411/184100843-47391a64-b195-4fba-91ed-847578bca95f.gif)
+### To do list!
+- [ ] Improve the authentication process and implement this step inside the GUI
+- [ ] Include new volcanoes to the list
+- [ ] Make possible also to download satellite images for the area of interest
+- [ ] Make a selection of different satellite bands visualization inside GUI
