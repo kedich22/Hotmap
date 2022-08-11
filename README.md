@@ -50,6 +50,6 @@ The following animation shows the example of application implementation:
 - [ ] Improve the authentication process and implement this step inside the GUI
 - [ ] Include new volcanoes to the list
 - [ ] Make possible also to download satellite images for the area of interest
-- [ ] Make a selection of different satellite bands visualization inside GUI
+- [x] Make a selection of different satellite bands visualization inside GUI
 - [ ] Write the section of algorithm improvements in README
 - [ ] Adapt the algorithm for other sensors, Landsat e.g.
