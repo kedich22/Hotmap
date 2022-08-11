@@ -51,3 +51,4 @@ The following animation shows the example of application implementation:
 - [ ] Include new volcanoes to the list
 - [ ] Make possible also to download satellite images for the area of interest
 - [ ] Make a selection of different satellite bands visualization inside GUI
+- [ ] Write the section of algorithm improvements in README
