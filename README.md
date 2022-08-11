@@ -3,6 +3,7 @@
 ## The detection of thermal hotspots associated with volcanic activity based on thermal reflection derived from Sentinel-2
 
 The repository includes the code of the modified v-Hotmap algorithm to detect hotspots. 
+
 It is based on the algorithm developed by and described in the paper of Murphy et al., 2016
 Sam W. Murphy, Carlos Roberto de Souza Filho, Rob Wright, Giovanni Sabatino, Rosa Correa Pabon,
 HOTMAP: Global hot target detection at moderate spatial resolution, Remote Sensing of Environment, Volume 177, 2016, Pages 78-88, ISSN 0034-4257,
